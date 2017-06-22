@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.mybatis.test.EmployeeTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.863 sec <<< FAILURE!
-testGetEmployeeById(com.mybatis.test.EmployeeTest)  Time elapsed: 0.468 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.869 sec <<< FAILURE!
+testGetEmployeeById(com.mybatis.test.EmployeeTest)  Time elapsed: 0.329 sec  <<< ERROR!
 org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
 ### The error may exist in com/mybatis/dao/EmployeeMapper.java (best guess)
@@ -110,7 +110,7 @@ Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (usi
 	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
 	... 59 more
 
-testGetAll(com.mybatis.test.EmployeeTest)  Time elapsed: 0.007 sec  <<< ERROR!
+testGetAll(com.mybatis.test.EmployeeTest)  Time elapsed: 0.008 sec  <<< ERROR!
 org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
 ### The error may exist in com/mybatis/dao/EmployeeMapper.java (best guess)

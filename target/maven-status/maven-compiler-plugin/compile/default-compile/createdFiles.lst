@@ -1,6 +1,5 @@
 com\mybatis\model\Employee.class
 com\mybatis\dao\EmployeeMapper.class
 com\mybatis\service\EmployeeServiceImpl.class
-com\mybatis\test\EmployeeTest.class
 com\mybatis\controller\EmployeeController.class
 com\mybatis\service\EmployeeService.class
