@@ -8,6 +8,14 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
