@@ -1,6 +1,5 @@
 package com.mybatis.test;
-
-        import com.mybatis.model.Employee;
+import com.mybatis.model.Employee;
         import com.mybatis.service.EmployeeService;
         import org.junit.Test;
         import org.junit.runner.RunWith;

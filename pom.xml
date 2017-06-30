@@ -211,6 +211,13 @@
           <version>2.4.3</version>
       </dependency>
 
+      <!-- kepler -->
+      <dependency>
+          <groupId>com.kepler</groupId>
+          <artifactId>kepler-all</artifactId>
+          <version>0.0.8-snapshot</version>
+      </dependency>
+
   </dependencies>
     <build>
         <finalName>DjMvnTest</finalName>

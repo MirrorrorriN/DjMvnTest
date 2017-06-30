@@ -66,6 +66,13 @@
           <element id="library" level="project" name="Maven: org.apache.maven.shared:maven-filtering:1.0-beta-4" />
           <element id="library" level="project" name="Maven: org.sonatype.plexus:plexus-build-api:0.0.4" />
           <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-interpolation:1.13" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/kepler/kepler-all/0.0.8-SNAPSHOT/kepler-all-0.0.8-SNAPSHOT.jar" output-file-name="kepler-all-0.0.8-snapshot.jar" />
+          <element id="library" level="project" name="Maven: io.netty:netty-all:4.0.36.Final" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
         </element>
       </element>
       <element id="directory" name="META-INF">

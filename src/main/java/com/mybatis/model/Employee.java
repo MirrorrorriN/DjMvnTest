@@ -1,7 +1,7 @@
 package com.mybatis.model;
 
 /**
- * Created by DJ on 2017/6/22.
+ * Created by DJ on 2017/6/25.
  */
 public class Employee {
 

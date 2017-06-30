@@ -89,5 +89,12 @@
     <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-filtering:1.0-beta-4" level="project" />
     <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-build-api:0.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-interpolation:1.13" level="project" />
+    <orderEntry type="library" name="Maven: com.kepler:kepler-all:0.0.8-snapshot" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.0.36.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
   </component>
 </module>
