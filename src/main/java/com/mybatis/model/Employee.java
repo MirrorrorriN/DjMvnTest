@@ -1,10 +1,12 @@
 package com.mybatis.model;
 
+import java.io.Serializable;
+
 /**
  * Created by DJ on 2017/6/25.
  */
-public class Employee {
-
+public class Employee implements Serializable{
+    private static final long serialVersionUID = 1L;
     private int id;
     private String lastName;
     private String email;
