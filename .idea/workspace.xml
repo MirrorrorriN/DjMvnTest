@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3a953fb-869e-4491-834a-7448d98180fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/demo-kepler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest-starter/demo-kepler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/demo-kepler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/control.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/deploy-meta/backup.ignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/start.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/stop.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/Job/SimpleJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/QuartzTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest-starter/control.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest-starter/deploy-meta/backup.ignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest-starter/start.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/DjMvnTest-starter/stop.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com.mybatis/dao/EmployeeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire/surefire1629835449146854147tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire/surefire8638977329046030190tmp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/mybatis/test/EmployeeTest.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/surefire/surefire2068302993322356670tmp" afterPath="$PROJECT_DIR$/target/surefire/surefire4519864642640092416tmp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/surefire/surefire8707017630009690182tmp" afterPath="$PROJECT_DIR$/target/surefire/surefire1894257760379563345tmp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mybatis/model/Employee.class" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/model/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mybatis/service/EmployeeService.class" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/service/EmployeeService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mybatis/service/EmployeeServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/service/EmployeeServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_kepler_kepler_all_0_0_8_snapshot.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_kepler_kepler_all_0_0_8_snapshot.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjMvnTest.iml" afterPath="$PROJECT_DIR$/DjMvnTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/model/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/model/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/service/EmployeeService.java" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/service/EmployeeService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/service/EmployeeServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/service/EmployeeServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com.mybatis/dao/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/com.mybatis/dao/EmployeeMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mybatis.test.EmployeeTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mybatis.test.EmployeeTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.mybatis.test.EmployeeTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.mybatis.test.EmployeeTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/QuartzTest.java" afterPath="$PROJECT_DIR$/src/test/java/QuartzTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,8 +50,8 @@
       <file leaf-file-name="QuartzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/QuartzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1144,7 +1108,7 @@
       <workItem from="1498791114721" duration="36395000" />
       <workItem from="1499913645933" duration="23000" />
       <workItem from="1500008436166" duration="807000" />
-      <workItem from="1500609203257" duration="1360000" />
+      <workItem from="1500609203257" duration="2924000" />
     </task>
     <servers />
   </component>
@@ -1178,7 +1142,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61867000" />
+    <option name="totallyTimeSpent" value="63431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1225" height="777" extended-state="6" />
@@ -1203,9 +1167,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41004863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40875912" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27134404" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1579,8 +1543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/QuartzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="246">
+          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

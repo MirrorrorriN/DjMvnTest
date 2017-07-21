@@ -1,13 +1,7 @@
 package com.mybatis.test;
 
 import com.mybatis.Job.SimpleJob;
-import org.quartz.JobBuilder;
-import org.quartz.JobDetail;
-import org.quartz.Scheduler;
-import org.quartz.SchedulerException;
-import org.quartz.SimpleScheduleBuilder;
-import org.quartz.Trigger;
-import org.quartz.TriggerBuilder;
+import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
 /**
  * Created by Mirror on 17/7/21.
@@ -29,9 +23,10 @@ public class QuartzTest {
                     .withIdentity("trigger1", "group1")
                     .startNow()
                     .withSchedule(
-                            SimpleScheduleBuilder.simpleSchedule()
-                                    .withIntervalInSeconds(5).repeatForever())
-                    .build();
+                            CronScheduleBuilder.cronSchedule("2,3,5,7 * * * * ?")).build();
+//                            SimpleScheduleBuilder.simpleSchedule()
+//                                    .withIntervalInSeconds(5).repeatForever())
+//                    .build();
 
 
             scheduler.scheduleJob(job, trigger);
