@@ -1,4 +1,4 @@
-package com.mybatis.Job;
+package com.Job;
 
 import java.util.Date;
 import org.quartz.Job;

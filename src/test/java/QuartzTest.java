@@ -1,6 +1,6 @@
 package com.mybatis.test;
 
-import com.mybatis.Job.SimpleJob;
+import com.Job.SimpleJob;
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
 /**
