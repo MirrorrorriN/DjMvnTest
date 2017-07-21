@@ -8,9 +8,9 @@ package com.mybatis.service;
 /**
  * Created by DJ on 2017/6/25.
  */
-@Service(version="0.0.1")
+@Service(version="0.0.2")
 public interface EmployeeService {
-    Employee getEmployee(int id);
+    Employee getEmployee(Integer id);
 
     List<Employee> getEmployees();
 }

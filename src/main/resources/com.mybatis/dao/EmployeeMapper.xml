@@ -19,7 +19,7 @@
     <select id="getAllEmployees" resultMap="BaseResultMap" >
         select
         <include refid="Base_Column_List"/>
-        from employ
+        from employee
         where id = #{*}
     </select>
 </mapper>
