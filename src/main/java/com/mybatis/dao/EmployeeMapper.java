@@ -10,10 +10,6 @@ import java.util.List;
  * Created by DJ on 2017/6/25.
  */
 
-/**
- * Created by wanggenshen_sx on 2016/12/26.
- */
-
 public interface EmployeeMapper {
     @Select("select id,lastName,email from employee where id=#{id}")
     Employee getEmployeeById(int id);
